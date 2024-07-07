@@ -84,7 +84,7 @@ export const projects = [
     des: "Placement English Test to analize the skill of english language for stundents.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/best-placement-test.com",
+    link: "https://best-placement-test.com",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "Coming Soon",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "Coming Soon",
   },
 ];
 
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/yosegu23",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/yosegu_23",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/yopi-septian/",
   },
 ];
